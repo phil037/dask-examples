@@ -7,8 +7,8 @@ They are intended to be educational and give users a start on common workflows.
 They should be easy to run locally if you download this repository.
 They are also available on the cloud by clicking on the link below:
 
-[![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dask/dask-examples/main?urlpath=lab)
-[![Build Status](https://github.com/dask/dask-examples/workflows/CI/badge.svg)](https://github.com/dask/dask-examples/actions?query=workflow%3ACI)
+https://mybinder.org/v2/gh/phil037/dask-examples/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fphil037%2Fdask-examples%2Fblob%2Fmain%2Fdataframes%2F01-data-access.ipynb
+
 
 Contributing
 ------------
